@@ -9,6 +9,11 @@ body{
     padding: 0;
 }
 
+h1{
+    text-shadow:2px 2px black;
+    font-style: italic;
+}
+
 nav{
     font-family: 'Ubuntu' , 'sans-serif';
     cursor: pointer;
